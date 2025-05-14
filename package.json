@@ -1,0 +1,14 @@
+{
+	"name": "exo-workflow",
+	"version": "1.0.0",
+	"scripts": {
+		"test": "jest --coverage"
+	},
+	"jest": {
+  		"collectCoverage": true,
+  		"coverageReporters": ["lcov", "text"]
+	},
+	"devDependencies": {
+		"jest": "^29.7.0"
+	}
+}
