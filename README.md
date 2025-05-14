@@ -4,7 +4,7 @@
 
 ## Dockerisation
 
-Ce projet est maintenant dockerisé avec un workflow CI/CD complet :
+Ce projet est maintenant dockerisé avec un workflow CI/CD complet:
 
 - **Dockerfile** : Utilise Node.js 20 Alpine comme image de base pour un conteneur léger et sécurisé
 - **GitHub Actions** : Pipeline automatisé pour tester, construire et déployer l'image Docker
